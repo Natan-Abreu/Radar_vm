@@ -1,0 +1,7 @@
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\obj\Debug\radar_vm.csprojResolveAssemblyReference.cache
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\obj\Debug\radar_vm.MainForm.resources
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\obj\Debug\radar_vm.csproj.GenerateResource.Cache
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\bin\Debug\radar_vm.exe
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\bin\Debug\radar_vm.pdb
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\obj\Debug\radar_vm.exe
+I:\Etec Embu\000 - 1º DSN\002 - PA\radar_vm\radar_vm\obj\Debug\radar_vm.pdb
